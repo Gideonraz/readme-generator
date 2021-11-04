@@ -23,6 +23,8 @@ Getting started make sure you have node.js and npm installed on your system.
 
 Create a clone of this repository git clone git@github.com:Gideonraz/readme-generator.git Navigate to the directory of the cloned repository in your terminal. Install the required npm modules by running npm install in your terminal. Use node index.js to start the readme generator. If you have any trouble please refer to the walk-through video.
 
+
+
 ## Usage
 
 Navigate to your project directory in your terminal application and run node index.js command. Follow the instructions and a README.md file will be created.
@@ -41,7 +43,7 @@ If you have any questions feel free to contact me here:
 
 ## Testing
 
-[node index]
+[node index or node index.js]
 
 ## License
 
@@ -51,4 +53,4 @@ You have the freedom to do as you like with this permissive software, as long as
 
 ## Application Image
 
- ![Image of Application](https://github.com/Gideonraz/readme-generator)
+ ![Image of Application](https://github.com/Gideonraz/readme-generator/blob/main/images/deployed-application.png)
