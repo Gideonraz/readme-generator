@@ -54,3 +54,7 @@ You have the freedom to do as you like with this permissive software, as long as
 ## Application Image
 
  ![Image of Application](https://github.com/Gideonraz/readme-generator/blob/main/images/deployed-application.png)
+
+ ## Walkthrough Video
+
+ [Link of Video] (https://youtu.be/W8u9VUXEHA8)
